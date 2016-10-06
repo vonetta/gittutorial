@@ -1,0 +1,22 @@
+{
+  "name": "HTML5 Tools Tutorial",
+  "homepage": "https://github.com/vonetta/gittutorial",
+  "authors": [
+    "Vonetta <vonettastevenson@gmail.com>"
+  ],
+  "description": "AccioCode tutorial for HTML5",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "js": "^5.9.1"
+  }
+}

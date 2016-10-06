@@ -1,0 +1,27 @@
+{
+  "name": "gittutorial",
+  "version": "1.0.0",
+  "description": "html5 tools tutorial for Accio Code",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vonetta/gittutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vonetta/gittutorial/issues"
+  },
+  "homepage": "https://github.com/vonetta/gittutorial#readme"
+}
